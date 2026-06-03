@@ -1,15 +1,15 @@
 {
-    "version": "0.2.18",
+    "version": "0.2.21",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Grandpied33/sth-releases/releases/download/v0.2.18/sth-windows-amd64.zip",
+            "url": "https://github.com/Grandpied33/sth-releases/releases/download/v0.2.21/sth-windows-amd64.zip",
             "bin": [
                 "sth.exe"
             ],
-            "hash": "d4367fabeb1a799b4d24402505756b6f9986b940b7b000566f4cc96a65f12ec1"
+            "hash": "6690f884a871fd55d5da78954f9d7470661160da95712354233b0b777f800678"
         }
     },
     "homepage": "https://github.com/Grandpied33/sth-releases",
     "license": "MIT",
-    "description": "Skills Transfer Hub — CLI to install AI skills."
+    "description": "Skills Transfer Hub (Alpha) — CLI to install AI skills."
 }
