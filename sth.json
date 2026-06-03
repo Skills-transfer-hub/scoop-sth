@@ -1,12 +1,12 @@
 {
-    "version": "0.2.21",
+    "version": "0.2.22",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Grandpied33/sth-releases/releases/download/v0.2.21/sth-windows-amd64.zip",
+            "url": "https://github.com/Grandpied33/sth-releases/releases/download/v0.2.22/sth-windows-amd64.zip",
             "bin": [
                 "sth.exe"
             ],
-            "hash": "6690f884a871fd55d5da78954f9d7470661160da95712354233b0b777f800678"
+            "hash": "6e8f89c808d82e1f842676f465491d7ba17ea204a3b9a6a03855309e6d196e96"
         }
     },
     "homepage": "https://github.com/Grandpied33/sth-releases",
