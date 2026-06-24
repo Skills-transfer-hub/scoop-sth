@@ -2,14 +2,14 @@
     "version": "0.2.32",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Grandpied33/sth-releases/releases/download/v0.2.32/sth-windows-amd64.zip",
+            "url": "https://github.com/Skills-transfer-hub/sth-releases/releases/download/v0.2.32/sth-windows-amd64.zip",
             "bin": [
                 "sth.exe"
             ],
             "hash": "7b02937234b64d3da00e08b2c8e7d6750b7bbc57243a62c69c498a5207792ddd"
         }
     },
-    "homepage": "https://github.com/Grandpied33/sth-releases",
+    "homepage": "https://github.com/Skills-transfer-hub/sth-releases",
     "license": "MIT",
     "description": "Skills Transfer Hub (Alpha) — CLI to install AI skills."
 }
