@@ -1,12 +1,12 @@
 {
-    "version": "0.2.39",
+    "version": "0.2.40",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Skills-transfer-hub/sth-releases/releases/download/v0.2.39/sth-windows-amd64.zip",
+            "url": "https://github.com/Skills-transfer-hub/sth-releases/releases/download/v0.2.40/sth-windows-amd64.zip",
             "bin": [
                 "sth.exe"
             ],
-            "hash": "d2ac92978ad6fdd5cfbe715930215c813b1de0303bec4a3b1811512d856a18d3"
+            "hash": "d8e275f528a9e9ae6c3363446c8290ae569723c350212299723d50c2674fa124"
         }
     },
     "homepage": "https://github.com/Skills-transfer-hub/sth-releases",
